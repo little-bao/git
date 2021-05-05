@@ -23,13 +23,14 @@
    ```
    git init #把文件夹初始化为本地仓库
    
-git status #观察哪些文件没有放入暂存区
+   git status #观察哪些文件没有放入暂存区
    
-git commit -m 解释说明 #把暂存区的文件添加到本地仓库
+   git commit -m 解释说明 #把暂存区的文件添加到本地仓库
    
    git branch -M main
    
    git remote add origin git@github.com:baozi9530/git.git #把网络仓库的连接放进别名origin中
    
    git push -u origin main #把本地仓库推送给网络仓库
+   
    ```
