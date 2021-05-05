@@ -4,7 +4,7 @@
 
 
 
-![image-20210505194108275](C:\Users\zero\AppData\Roaming\Typora\typora-user-images\image-20210505194108275.png)
+![git](F:\git\git.png)
 
 ### git命令
 
