@@ -33,12 +33,3 @@ git commit -m 解释说明 #把暂存区的文件添加到本地仓库
    
    git push -u origin main #把本地仓库推送给网络仓库
    ```
-   
-   
-   
-   
-   
-   
-   
-   
-
